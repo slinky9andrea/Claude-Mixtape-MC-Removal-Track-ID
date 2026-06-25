@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+env/
+venv/
+
+# Editor settings
+.idea/
+.vscode/
+
+
+node_modules/
+uploads/
+dist/
+.DS_Store
+*.log

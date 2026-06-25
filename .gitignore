@@ -1,0 +1,47 @@
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Environment & secrets ─────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Node ──────────────────────────────────────────────────────────────────────
+node_modules/
+dist/
+*.log
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv
+env/
+venv/
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+
+# ── Server runtime directories ────────────────────────────────────────────────
+server/uploads/
+server/served/
+server/chunks/
+
+# ── Personal data (not for public repos) ─────────────────────────────────────
+server/library.json
+
+# ── Audio & video files ───────────────────────────────────────────────────────
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.flac
+*.wav
+*.m4a
+*.aac
+
+# ── Screenshots & images ──────────────────────────────────────────────────────
+screenshots/
