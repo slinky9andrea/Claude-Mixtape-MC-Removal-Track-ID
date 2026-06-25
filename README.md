@@ -2,7 +2,7 @@
 
 > **Finding: Audio fingerprinting is not viable for pre-digital underground music archives.**
 >
-> AudD and MusicBrainz identified only a small fraction of tracks in the mixes tested. Most 1991–1999 jungle, hardcore, and drum & bass recordings were released on small UK vinyl labels with no digital distribution — they were never catalogued in any fingerprinting database. Some tracks were misidentified. For this specific use case, community archives like [MixesDB](https://www.mixesdb.com) are the only reliable source.
+> AudD and MusicBrainz identified only a small fraction of tracks in the mixes tested. Most 1992–1999 jungle, hardcore techno, and drum & bass recordings were released on small UK vinyl labels with no digital distribution — they were never catalogued in any fingerprinting database. Some tracks were misidentified. For this specific use case, community archives like [MixesDB](https://www.mixesdb.com) are the only reliable source.
 >
 > The app itself functions correctly and may be useful for mixes containing commercially distributed tracks from the late 1990s onward. If you are interested in how it was constructed, see below.
 
